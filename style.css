@@ -9,18 +9,47 @@
 
 .main {
     width: 980px;
-    height: 710px;
+    height: 770px;
     
 }
 
 .Main-table {
     background-color: rgb(181, 190, 199);
     width: 950px;
-    height: 700px;
+    height: 750px;
     position:absolute;
     margin-top: 5px;
     margin-left: 12px;
     border: solid grey;
+}
+
+.rec {
+    height: 20px;
+    width: 150px;
+    border-radius: 20%;
+    background-color: aliceblue;
+    position: relative;
+    left: 430px;
+    top: 720px;
+}
+
+.square1 {
+    height: 20px;
+    width: 20px;
+    background-color: aliceblue;
+    position: relative;
+    left: 230px;
+    top: 220px;
+}
+
+.square2 {
+    height: 20px;
+    width: 20px;
+    background-color: aliceblue;
+    position: relative;
+    left: 720px;
+    top: 210px;
+    
 }
 
 
@@ -30,8 +59,11 @@
     font-size: x-large;
     text-align: right;
     padding-top: 5px;
-    position:absolute;
-    border-spacing: 100px;
+    position:relative;
+    top: 50px;
+    right: 300px;
+   
+    
     
     
     
@@ -41,11 +73,10 @@
     width: 900px;
     height: 600px;
     padding-top: 35px;
-    position: relative;
-    margin-top: 57px;
+   
+    margin-top: 10px;
     margin-left: 25px;   
     border: solid grey;
-
 }
 
 
@@ -80,6 +111,7 @@
     height: 40px;
     width: 81px;
    padding: 3px;
+   visibility: hidden;
   
    
 }
