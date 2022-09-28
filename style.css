@@ -1,0 +1,108 @@
+
+.header th {
+    background-color: black;
+    font-style: normal;
+    font-weight: bold;
+    color: aqua;
+}
+
+
+.main {
+    width: 980px;
+    height: 710px;
+    
+}
+
+.Main-table {
+    background-color: rgb(181, 190, 199);
+    width: 950px;
+    height: 700px;
+    position:absolute;
+    margin-top: 5px;
+    margin-left: 12px;
+    border: solid grey;
+}
+
+
+.font {
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: right;
+    padding-top: 5px;
+    position:absolute;
+    border-spacing: 100px;
+    
+    
+    
+}
+
+.black-table {
+    width: 900px;
+    height: 600px;
+    padding-top: 35px;
+    position: relative;
+    margin-top: 57px;
+    margin-left: 25px;   
+    border: solid grey;
+
+}
+
+
+.red_cell {
+    background-color: red;
+    position: relative;
+    color: red;
+    height: 40px;
+    width: 81px;
+   padding: 3px;
+   border-top: 1px solid white;
+   border-left: 1px solid white;
+   
+}
+
+.yellow_cell {
+    background-color: yellow;
+    position: relative;
+    color: yellow;
+    height: 40px;
+    width: 81px;
+   padding: 3px;
+   border-top: 1px solid white;
+   border-left: 1px solid white;
+   
+}
+
+.black_cell {
+    background-color: black;
+    position: relative;
+    color: black;
+    height: 40px;
+    width: 81px;
+   padding: 3px;
+  
+   
+}
+.green_cell {
+    background-color: green;
+    position: relative;
+    color: green;
+    height: 40px;
+    width: 81px;
+   padding: 3px;
+   border-top: 1px solid white;
+   border-left: 1px solid white;
+   
+}
+.blue_cell {
+    background-color: blue;
+    position: relative;
+    color: blue;
+    height: 40px;
+    width: 81px;
+   padding: 3px;
+   border-top: 1px solid white;
+   border-left: 1px solid white;
+   
+}
+
